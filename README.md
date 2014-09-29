@@ -14,6 +14,10 @@ Resources
 * [Dynamic Web TWAIN SDK][2]
 * [Amazon S3][3]
 
+Blog
+----
+[How to Upload Scanned Images to Amazon S3 Using Dynamic Web TWAIN][4]
+
 How to Run:
 -----------
 1. open `online_demo_operation.js`, and specify `strActionPage = ""; // Your amazon s3 URL`
@@ -26,3 +30,4 @@ How to Run:
 [1]:http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx
 [2]:https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=WebTWAIN&from=FromDownload
 [3]:http://aws.amazon.com/s3
+[4]:http://www.codepool.biz/ocr-barcode-twain/twain-sdk/upload-image-to-amazon-s3.html
