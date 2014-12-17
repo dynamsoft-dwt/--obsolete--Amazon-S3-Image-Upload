@@ -11,7 +11,7 @@ Screenshots
 Resources 
 -----------
 
-* [Dynamic Web TWAIN SDK][2]
+* [Dynamic Web TWAIN v10.0.1][2]
 * [Amazon S3][3]
 
 Blog
@@ -28,6 +28,6 @@ How to Run:
 
 
 [1]:http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx
-[2]:https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=WebTWAIN&from=FromDownload
+[2]:http://www.dynamsoft.com/download/Dynamic%20Web%20TWAIN%2010.0.1%20TRIAL.exe
 [3]:http://aws.amazon.com/s3
 [4]:http://www.codepool.biz/ocr-barcode-twain/twain-sdk/upload-image-to-amazon-s3.html
