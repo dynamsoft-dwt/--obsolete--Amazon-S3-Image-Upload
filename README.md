@@ -11,7 +11,7 @@ Screenshots
 Resources 
 -----------
 
-* [Dynamic Web TWAIN v10.0.1][2]
+* [Dynamic Web TWAIN 11.1][2]
 * [Amazon S3][3]
 
 Blog
@@ -20,14 +20,16 @@ Blog
 
 How to Run:
 -----------
-1. open `online_demo_operation.js`, and specify `strActionPage = ""; // Your amazon s3 URL`
-2. open `online_demo_scan.php`, and specify `$bucket = ""; $accesskey = ""; $secret = "";`
-3. deploy the project to your Web server
-4. visit `online_demo_scan.php` in your Web browser
+1. download and instal Dynamic Web TWAIN
+2. copy the Resource folder from the installation directory (like C:\Program Files (x86)\Dynamsoft\Dynamic Web TWAIN SDK 11.1 Trial)
+3. open `online_demo_operation.js`, and specify `strActionPage = ""; // Your amazon s3 URL`
+4. open `online_demo_scan.php`, and specify `$bucket = ""; $accesskey = ""; $secret = "";`
+5. deploy the project to your Web server
+6. visit `online_demo_scan.php` in your Web browser
 
 
 
 [1]:http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx
-[2]:http://www.dynamsoft.com/download/Dynamic%20Web%20TWAIN%2010.0.1%20TRIAL.exe
+[2]:http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx
 [3]:http://aws.amazon.com/s3
 [4]:http://www.codepool.biz/ocr-barcode-twain/twain-sdk/upload-image-to-amazon-s3.html
